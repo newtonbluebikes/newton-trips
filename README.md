@@ -4,7 +4,6 @@ Interactive map and trip data for Bluebikes bikeshare trips that start or end at
 
 **Live map:** https://newtonbluebikes.github.io/Newton_trips/
 
-A map of Boston College T trips is in a separate project: https://newtonbluebikes.github.io/BC_bluebikes/
 
 ## Files
 
